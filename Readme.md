@@ -1,4 +1,4 @@
-# Ebook Scraper
+# Index Downloader
 
 Welcome to Index Downloader, a fun little project that I created to download e-books and PDFs. Now, before we dive into the details, let me make one thing clear: I have no idea if this process is legal or not. So, use it at your own risk!
 
