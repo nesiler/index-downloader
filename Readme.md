@@ -28,7 +28,7 @@ Replace `<website-url>` with the URL of the website where you want to scrape.
 
 ## Legal Disclaimers
 
-I want to emphasize that I don't know if this process is legal or not. Please be aware of the potential legal implications before using this program to download copyrighted content. Respect the rights of authors, publishers, and content creators, and only download e-books and PDFs if you have proper authorization. _("I'm wondering if accessing something by everybody makes it legal?)_
+I want to emphasize that I don't know if this process is legal or not. Please be aware of the potential legal implications before using this program to download copyrighted content. Respect the rights of authors, publishers, and content creators, and only download e-books and PDFs if you have proper authorization. _(I'm wondering if accessing something by everybody makes it legal?)_
 
 ## License
 
